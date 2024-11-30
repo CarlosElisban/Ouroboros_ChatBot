@@ -1,0 +1,3 @@
+token= 'cipher_chatbot'
+whatsapp_token = 'EAAId6pXOzNkBO38NZAAZAl0sHa0ZACDO0UcoWzV0aKmaLrNtYko6pVCFFGbT1KDiAWQUaG0ZCsERX3rtpTjPXpXq2KjwxlrszbwXxBOwD7tagpJ1NPZBmVv01zaeDHNZAIgSNGZBh7b9v6QQSYJK4C0qHm6Gsar4lURlGLyAqIrweDZAhc943sUL3SA07OE0vMPUAcMZChXCePWU0OZBMKNmV8vlgMG5UZD'
+whatsapp_url = 'https://graph.facebook.com/v21.0/456683117536134/messages'
